@@ -6,7 +6,6 @@
 - 🔭 Atualmente estou focado em aprender e evoluir no desenvolvimento **Front-end / Full-stack**.
 - 🌱 Estou estudando novas tecnologias web, JavaScript, HTML, CSS e frameworks modernos.
 - 💬 Me pergunte sobre tecnologia, programação ou projetos criativos.
-- 📫 Como me encontrar: [Seu LinkedIn](https://linkedin.com) ou [Seu E-mail](mailto:seu-email@email.com)
 
 <br>
 
